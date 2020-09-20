@@ -1,15 +1,13 @@
 # Curriculum Vitae
 
 ## General Information
-| Inforamtion        |            |
-| ------------- |:-------------:|
-|**First name**| Andrei (Андрей) | 
-|**Last name**| Shyshatski ( Шишацкий)  |
-|**Email**| andrey0927@gmail.com | 
-|**Phone**| +375 29 859 31 74  |
-|**Skype**| andrei_shyshatski  |
-|**Github**| AndreyHub09  |
-|**Discord**| AndreyRS (@AndreyHub09)  |
+**First name:** Andrei (Андрей)  
+**Last name:** Shyshatski ( Шишацкий)  
+**Email:** andrey0927@gmail.com  
+**Phone:** +375 29 859 31 74  
+**Skype:** andrei_shyshatski  
+**Github:** AndreyHub09  
+**Discord:** AndreyRS (@AndreyHub09)  
 
 ## Summary
 Purposeful, responsible, reliable person, aimed at self-development, improvement of work and soft skills.  
